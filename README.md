@@ -5,7 +5,7 @@ Kruskal's Minimum Spanning Tree Algorithm written in Java.
 First you need to make a .txt file with the following rules:
 
 - the first row contains the numbers of edges
-- the following n rows contain the edges, represented by two vertices, separated by colons.
+- the following n rows contain the edges, represented by two vertices, separated by commas.
 
 ### Example input file
 ```sh
